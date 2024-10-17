@@ -1,6 +1,6 @@
 ### Hi there, I'm Areej! 
 
-Welcome to my GitHub! I'm a creative and driven **web developer** with a passion for building dynamic, responsive web applications using **Angular**. I turn static designs into engaging user experiences, all while keeping clean, reusable code at the heart of everything I do.
+I'm a creative and driven developer with a passion for crafting dynamic, responsive web applications. I transform static designs into interactive user experiences, while ensuring clean, maintainable, and reusable code.
 
 ---
 
@@ -26,15 +26,7 @@ Welcome to my GitHub! I'm a creative and driven **web developer** with a passion
 
 ### 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=arreej&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arreej&show_icons=true&theme=light)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arreej&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arreej&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### 📫 Let's Connect!
-
-- **Email**: [areej.fatima2k@gmail.com](mailto:areej.fatima2k@gmail.com)
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/areejfatima-/)
-
----
