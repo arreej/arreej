@@ -24,7 +24,5 @@ I'm a creative and driven developer with a passion for crafting dynamic, respons
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arreej&show_icons=true&theme=light)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arreej&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
