@@ -1,6 +1,6 @@
 ### Hi there, I'm Areej! 
 
-I'm a creative and driven developer with a passion for crafting dynamic, responsive web applications. I transform static designs into interactive user experiences, while ensuring clean, maintainable, and reusable code.
+I transform static designs into interactive user experiences, while ensuring clean, maintainable, and reusable code.
 
 ---
 
